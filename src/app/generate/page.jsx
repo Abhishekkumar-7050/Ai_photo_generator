@@ -11,4 +11,4 @@ function GeneratePage() {
   )
 }
 
-export default GeneratePage;
+export default GeneratePage
