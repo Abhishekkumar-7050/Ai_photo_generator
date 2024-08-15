@@ -26,7 +26,7 @@ function History() {
         <div className='flex justify-between items-center'>
           <h3 className="text-bold ">history</h3>
           <Link className="bg-blue-600 hover:bg-blue-700 transition-all text-white text-sm rounded-full px-5 py-2.5"
-             href={`/Generate`}>Generate Images</Link>
+             href={`/generate`}>Generate Images</Link>
 
         </div>
 

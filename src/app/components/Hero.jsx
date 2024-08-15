@@ -14,7 +14,7 @@ function handleCreateBtn() {
   console.log("email hai kya:", email);
   
   if(email){
- router.push('/Generate')
+ router.push('/generate')
   }
   else{
     router.push('/login');
