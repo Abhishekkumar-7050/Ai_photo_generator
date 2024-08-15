@@ -16,7 +16,7 @@ const ratelimit = new Ratelimit({
 // Define which routes you want to rate limit
 export const config = {
   // matcher: '/api/history/:user*',
-  matcher: ['/api/history/:user*', '/generate'],
+  matcher: ['/api/history/:user*', '/Generate'],
 
 };
 
